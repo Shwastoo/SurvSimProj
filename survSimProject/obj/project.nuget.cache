@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "rqyaw94bH34Q8Ig8tQE7LqKUpw2WJwqyiU5Ojr+4esvp+uzCYCQ0FjgCNx26lTNMdemqENKYFbYWsmm6B4HnXQ==",
+  "success": true,
+  "projectFilePath": "D:\\survSimProject\\survSimProject\\SurvSimProj\\survSimProject\\survSimProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jakub\\.nuget\\packages\\avs.corelib.abstractions\\1.0.1\\avs.corelib.abstractions.1.0.1.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\avs.corelib.powerconsole\\1.0.9\\avs.corelib.powerconsole.1.0.9.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\avs.corelib.text\\1.0.1\\avs.corelib.text.1.0.1.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.20\\microsoft.extensions.configuration.3.1.20.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.20\\microsoft.extensions.configuration.abstractions.3.1.20.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.20\\microsoft.extensions.dependencyinjection.3.1.20.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.20\\microsoft.extensions.dependencyinjection.abstractions.3.1.20.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.20\\microsoft.extensions.primitives.3.1.20.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\pastel\\3.0.0\\pastel.3.0.0.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
